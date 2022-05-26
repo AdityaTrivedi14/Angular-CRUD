@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Aditya",
+      "lastName": "Trivedi",
+      "email": "shruti@gmail.com",
+      "mobile": 4235246423,
+      "salary": 35352346
+    },
+    {
+      "id": 4,
+      "firstName": "Shruti",
+      "lastName": "frtg",
+      "email": "trt",
+      "mobile": 3456,
+      "salary": 23456
+    }
+  ]
+}
